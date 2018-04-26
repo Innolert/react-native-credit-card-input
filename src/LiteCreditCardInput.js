@@ -12,6 +12,7 @@ import {
 import Icons from "./Icons";
 import CCInput from "./CCInput";
 import { InjectedProps } from "./connectToState";
+import PropTypes from 'prop-types' // ES6
 
 const INFINITE_WIDTH = 1000;
 
